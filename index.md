@@ -1,4 +1,4 @@
-# Mateo Forero
+# Project Portfolio
 
 These are projects from my undergraduate and graduate courses.
 
@@ -17,7 +17,7 @@ The goal of the project was to execute data exploration and model creation in th
 ### [Ammonia Production Model and Optimization](https://github.com/Forero-Mateo/Kinetics_Ammonia_Production)
 This was a project for the senior level course Kinetics and Reactor Design to model and design an autothermic reactor for ammonia production. Three different reactor models were created to demonstrate how each scenario could impact conversion and design parameters. Model design required building design equations, solving systems of ODEs, solving systems of linear equations (e.g., energy balance, net rate equations, gas heat capacities), and parameter optimization. All model design was done using MATLAB
 
-![](https://github.com/Forero-Mateo/Kinetics_Ammonia_Production/blob/main/Plots/PD_Temp.png)
+![](https://raw.githubusercontent.com/Forero-Mateo/Kinetics_Ammonia_Production/main/Plots/PD_Temp.png)
 
 ### [Iterative Mass and Energy Balance](https://github.com/Forero-Mateo/Mass_Energy_Balance)
 This was a project for the junior level course Mass and Energy Balance II to solve a system of linear equations iteratively to solve an underdetermined system (recycle stream). Originally the project scope asked to solve for all unknown values for 3 different temperatures using Excels "Goal Seek" but having taught myself MATLAB the summer leading to this class, I chose to complete this project on MATLAB and solved for all 150 possible answers. 
