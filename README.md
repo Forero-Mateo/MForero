@@ -1,2 +1,0 @@
-# MForero
-Project portfolio
