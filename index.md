@@ -20,6 +20,6 @@ This was a project for the senior level course Kinetics and Reactor Design to mo
 ![](https://raw.githubusercontent.com/Forero-Mateo/Kinetics_Ammonia_Production/main/Plots/PD_Temp.png)
 
 ### [Iterative Mass and Energy Balance](https://github.com/Forero-Mateo/Mass_Energy_Balance)
-This was a project for the junior level course Mass and Energy Balance II to solve a system of linear equations iteratively to solve an underdetermined system (recycle stream). Originally the project scope asked to solve for all unknown values for 3 different temperatures using Excels "Goal Seek" but having taught myself MATLAB the summer leading to this class, I chose to complete this project on MATLAB and solved for all 150 possible answers. 
+This was a project for the junior level course Mass and Energy Balance II to solve a system of linear equations iteratively for an underdetermined system (recycle stream). Originally the project scope asked to solve for all unknown values for 3 different temperatures using Excels "Goal Seek" but having taught myself MATLAB the summer leading to this class, I chose to complete this project on MATLAB and solved for all 150 possible answers. 
 
 The main purpose of demonstrating this project is to present the self-taught coding style and the numerical methods utilized (matrix algebra, solving underdetermined systems, advanced calculus etc.) to solve problems.
