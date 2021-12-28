@@ -9,7 +9,7 @@ This was a project for the graduate course Applied Data Mining and Analytics in 
 
 The goal of the project was to execute data exploration and model creation in the hope of building a risk measure comparable to the physician established CHADS-VAS Score. This tool uses age, biological gender, presence of congestive heart failure, hypertension, history of strokes, heart disease and diabetes to predict risk of stroke. Creating a model that uses similar variables in addition to adding social determinants of health such as marriage status, work type, and residence type may provide a better prediction than is currently being used.
 
-![](https://github.com/Forero-Mateo/Stroke_Prediction_and_Inference/blob/main/Stroke_Data-Mining_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](https://raw.githubusercontent.com/Forero-Mateo/Stroke_Prediction_and_Inference/main/Stroke_Data-Mining_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 
 ## Undergraduate Projects
