@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Hello, thank you for visiting my project portfolio. This is a small list of projects completed by me over the years. I plan to continue adding old and new projects to this webpage. Each project title will link to the GitHub repository it is stored in, where you can read a bit more about the project, as well as look through the code as well.
+Hello, thank you for visiting my project portfolio. This is a small list of projects completed by me over the years. I plan to continue adding old and new projects to this webpage. Each project title will link to the GitHub repository it is stored in, where you can read a bit more about the project and look through the code as well.
 
 ## Graduate Project
 
