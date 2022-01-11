@@ -4,7 +4,7 @@ Hello, thank you for visiting my project portfolio. This is a small list of proj
 
 ## Graduate Project
 
-### [Stroke Prediction and Inference in R](https://github.com/Forero-Mateo/Stroke_Prediction_and_Inference)
+### [Stroke Prediction and Inference in R and Python](https://github.com/Forero-Mateo/Stroke_Prediction_and_Inference)
 This was a project for the graduate course Applied Data Mining and Analytics in Business. It uses the [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) found on Kaggle. The dataset was adjusted to only include adults (Age >= 18) because the risk factors associated with stroke in adolescents and children, such as genetic bleeding disorders, are not captured by this dataset.
 
 The goal of the project was to execute data exploration and model creation in the hope of building a risk measure comparable to the physician established CHADS-VAS Score. This tool uses age, biological gender, presence of congestive heart failure, hypertension, history of strokes, heart disease and diabetes to predict risk of stroke. Creating a model that uses similar variables in addition to adding social determinants of health such as marriage status, work type, and residence type may provide a better prediction than is currently being used.
